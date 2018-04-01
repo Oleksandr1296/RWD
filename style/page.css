@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.heder-containner{
+	background: #00AEFF;
+	height:100px;
+}
+.header-element1{
+	background:#009BDD;
+	height: 50%;
+	width: 20%;
+}
+.header-element2{
+	background:#36C3FF;
+	height: 50%;
+	width: 20%;
+}
+
+.main-containner{
+	background: #fff;
+	margin: 0 15% ;	
+	height: 1000px;
+}
+.main-element1{
+	background:#FF5607;
+	width: 25%;	
+	height: 100%;
+}
+.main-element1-elem1{
+	background:#E84900;
+	margin: 7% 15% 0 7%;
+	height: 4%;
+}
+.main-element2{
+	background:#fff;
+	width: 75%;	
+	height: 100%;
+}
+.main-element2-big {
+	background:#ffbd00;
+	width: calc(50% - 20px);
+	margin: 20px 10px 0 10px;	
+	height: 30%;
+}
+.main-element2-titl{
+	background:#fff;
+	width: calc(50% - 40px);
+	margin: 20px 0px 0px 10px;	
+	height:  30%;
+}
+
+.main-element2-elem1{
+	background:#CECECE;
+	width: 100%;
+	margin: 10px 0px 0px 30px;	
+	height: 20%;
+}
+.main-element2-elem11{
+	background:#9d9d9d;
+	width: 100%;
+	margin: 0px 0px 10px 30px;	
+	height: 24%;
+}
+.main-element2-line{
+	background:#CECECE;
+	width: 100%;
+	margin: 10px 0 0px 10px;	
+	height: 4%;
+
+}
+.foter-conainner{
+	background: #00d169;
+	height:200px;
+}
+.foter-conainner-elm{
+	background: #02b15a;
+	height:200px;
+	height: 75%;
+	width: 12%;
+	margin: 20px 5px;
+}
+.foter-conainner-elm1{
+	background: #038042;
+	height: 17%;
+	margin: 1.5% 14% 1.5% 10% ;
+	width: 76%;
+}
